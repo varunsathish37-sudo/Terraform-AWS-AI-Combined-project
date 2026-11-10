@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+.env.local
+.trigger
+generated/
+VIDEO_OUTLINE.md
+YOUTUBE_TUTORIAL_SCRIPT.md
+.DS_Store
+tsconfig.tsbuildinfo
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
